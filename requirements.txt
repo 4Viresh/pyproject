@@ -29,3 +29,4 @@ WebTest==2.0.27
 zope.deprecation==4.2.0
 zope.interface==4.4.1
 zope.sqlalchemy==0.7.7
+psycopg2==2.5.3
